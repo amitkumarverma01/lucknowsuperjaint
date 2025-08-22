@@ -11,5 +11,3 @@ working as axyx company
 we are studying github
 git is very intersting technology.
 
-hi
-i am dinesh
